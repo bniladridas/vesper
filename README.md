@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/vesper/main/.github/assets/thumbnail.png" alt="vesper" width="100%">
+</p>
+
 # Vesper
 <img src="website/assets/readme-header.png" alt="Vesper" width="100%">
 
